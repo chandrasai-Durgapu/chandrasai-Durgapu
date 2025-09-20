@@ -23,7 +23,7 @@ I bring a strong background in **software engineering and database development**
       <a href="mailto:chandrasai.example@gmail.com">
         <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="50" height="50"/>
       </a>
-      <br>chandrasai.example@gmail.com
+      <br>chandrasekharcse522@gmail.com
     </td>
     <td align="center">
       <a href="https://personal-budget-tracker.streamlit.app/" target="_blank">
