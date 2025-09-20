@@ -45,5 +45,28 @@ Here are some of the projects I’m building during my transition to AI/ML:
 
 - 💰 **Personal Budget Tracker**  
   Streamlit-based budgeting app to track expenses and visualize spending.  
-  → [Live App](h)
+  → [Live App](https://personal-budget-tracker.streamlit.app)
 
+> Check out my **pinned repositories** below for the code!
+
+---
+
+## 📚 Currently Learning
+
+- 🧠 LLM fine-tuning & embedding search (RAG)
+- 🔁 End-to-End ML pipelines & deployment
+- 📦 MLOps tools like MLflow, DVC
+- 🤝 Open-source AI tools (LangChain, Hugging Face, CrewAI)
+- 🎯 Building practical GenAI apps that solve real-world problems
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chandra-d-3b821334a)
+- 💬 Open to: Freelance · Full-time · Collaborations · Mentorships
+- 💡 Always learning, building, and sharing knowledge in ML & AI!
+
+---
+
+⭐ If you like my work, follow me here on GitHub and explore the repos!
