@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Chandra Sai Durgapu
+# Chandra Sai 
 
 💻 **Former ASP.NET Core Web Developer** → 🚀 **Now focused on Generative AI, Machine Learning & Data Science**
 
@@ -109,9 +109,21 @@ Converts **natural language queries into SQL** using a Gemini AI agent.
 
 ---
 
-### 🗄️ [DB_Practice](https://github.com/chandrasai-Durgapu/DB_Practice)
-SQL Server database developer practice repo.  
-**Files present:** `.gitattributes`, `.gitignore`, `DB_Practice.sln`.
+#### **[EcommerceCART – Scalable E‑Commerce Database](https://github.com/chandrasai‑Durgapu/EcommerceCART)**  
+* Repository of a full relational schema + analytics queries for an e‑commerce platform.  
+* Includes:  
+  - `database‑schema.sql`: full schema creation (tables, keys, constraints)  
+  - `Inventory.sql`: inventory analytics using CTEs and window functions  
+  - `categories-sql-queries.sql`: category table views/functions/CTEs  
+  - `Advanced‑SQL‑Queries.sql`: complex logic including dynamic ranking and sub‑queries  
+  - ER Diagram (`EcommerceCART‑Database‑Diagram.png`) illustrating relationships  
+* Ideal for analysts, backend engineers or database architects to explore real‑world patterns.
+
+> **Why this stands out:**  
+> - Realistic e‑commerce domain modelling.  
+> - Emphasis on analytics and query‑performance.  
+> - Ready for full‑stack or data‑pipeline integration.  
+
 
 ---
 
