@@ -100,45 +100,66 @@ Location:
 
 ## 🚀 Featured Projects
 
-### 📊 [Stock Research AI Agent](https://github.com/chandrasai-Durgapu/Stock-Research-Agno-ai-agent-AI-agent-)
-AI agent that performs **stock research** — fetching market outlook and financial performance of semiconductor companies.  
-**Files present:** `.env`, `README.md`, `main.py`, `requirements.txt`.
+### 🧩 [LangChain Example](https://github.com/chandrasai-Durgapu/LangChain-example)  
+A modular demo repository showcasing LangChain components including LLM integration, chat models, prompt templates, and output parsers.  
+
+**About LangChain & LLMs:**  
+LangChain is a powerful framework that helps developers build applications using Large Language Models (LLMs) like OpenAI’s GPT. It simplifies prompt management, chaining multiple LLM calls, and integrating external data or APIs.
+
+- 🐍 Built with Python and LangChain SDK  
+- 🤖 Demonstrates prompt engineering and chain creation with LLMs  
 
 ---
 
-### 🤖 [Crew AI Personal Research Agent](https://github.com/chandrasai-Durgapu/crew-ai-personal-research-agent-AI-agent-)
-Implements a **personal research assistant** using Crew AI.  
-**Files present:** `agents/`, `tasks/`, `.env`, `README.md`, `app.py`, `crew.py`, `env_template.txt`, `main.py`, `requirements.txt`.
+### 🌐 [LANGGRAPH Example](https://github.com/chandrasai-Durgapu/LANGGRAPH-Example)  
+Example project illustrating stateful, multi-agent workflows with LangGraph, including reflexion agents and structured output handling.
+
+**About LangGraph:**  
+LangGraph is designed for orchestrating multiple LLM-powered agents that interact, reflect, and make decisions collaboratively. It enables complex AI workflows beyond single LLM calls.
+
+- 🔄 Implements multi-agent orchestration and reflexion  
+- 🧠 Demonstrates self-reflective AI system design  
 
 ---
 
-### ⚖️ [Personal Legal Assistant (Crew AI)](https://github.com/chandrasai-Durgapu/Personal-Legal-Assistant-using-Crew-AI)
-A prototype **legal assistant** built with Crew AI agents. *(For research purposes only — not legal advice.)*  
-**Files present:** `.gitignore`, `LICENSE`, `README.md`.  
-**License:** MIT
+### 🏥 [Build a RAG ChatBot related to Medical](https://github.com/chandrasai-Durgapu/Build-a-RAG-ChatBot-related-to-Medical-)  
+Retrieval-Augmented Generation (RAG) chatbot tailored for medical domain queries, combining document retrieval with LLM-generated answers.
+
+**About RAG:**  
+RAG integrates a retrieval system (e.g., document databases, vector stores) with LLMs, allowing the model to fetch relevant info dynamically before generating answers—improving accuracy and grounding responses in real data.
+
+- 📚 Uses LangChain’s RetrievalQA with FAISS vector store  
+- 💬 Provides interactive chatbot experience for medical information  
 
 ---
 
-### 🔎 [Text-to-SQL with Gemini AI Agent](https://github.com/chandrasai-Durgapu/text-to-sql-using-gemini-ai-agent)
-Converts **natural language queries into SQL** using a Gemini AI agent.  
-**Files present:** `venv/`, `.env`, `.gitignore`, `LICENSE`, `README.md`, `app.py`, `requirements.txt`, `sql.py`.
+### 🗄️ [Text-to-SQL using Gemini AI Agent](https://github.com/chandrasai-Durgapu/text-to-sql-using-gemini-ai-agent)  
+A natural language interface converting English queries into SQL commands using Google Gemini and LangChain’s SQLDatabaseChain, connected to SQL Server and PostgreSQL.
+
+**About SQL + LLM Integration:**  
+This project demonstrates bridging LLMs with traditional databases, enabling non-technical users to query complex databases using plain language, automating query generation safely and effectively.
+
+- 💡 Enables easy data querying for non-technical users  
+- 🛠️ Integrates LLMs with relational databases (SQL Server, PostgreSQL)  
 
 ---
 
-#### **[EcommerceCART – Scalable E‑Commerce Database](https://github.com/chandrasai‑Durgapu/EcommerceCART)**  
+
+### 🛒 **[EcommerceCART – Scalable E‑Commerce Database](https://github.com/chandrasai-Durgapu/EcommerceCART)**  
 * Repository of a full relational schema + analytics queries for an e‑commerce platform.  
 * Includes:  
-  - `database‑schema.sql`: full schema creation (tables, keys, constraints)  
-  - `Inventory.sql`: inventory analytics using CTEs and window functions  
-  - `categories-sql-queries.sql`: category table views/functions/CTEs  
-  - `Advanced‑SQL‑Queries.sql`: complex logic including dynamic ranking and sub‑queries  
-  - ER Diagram (`EcommerceCART‑Database‑Diagram.png`) illustrating relationships  
-* Ideal for analysts, backend engineers or database architects to explore real‑world patterns.
+  - 📄 `database-schema.sql`: full schema creation (tables, keys, constraints)  
+  - 📊 `Inventory.sql`: inventory analytics using CTEs and window functions  
+  - 🗂️ `categories-sql-queries.sql`: category table views/functions/CTEs  
+  - 🔍 `Advanced-SQL-Queries.sql`: complex logic including dynamic ranking and sub‑queries  
+  - 📈 ER Diagram (`EcommerceCART-Database-Diagram.png`) illustrating relationships  
+* Ideal for analysts, backend engineers, or database architects to explore real‑world patterns.
 
-> **Why this stands out:**  
-> - Realistic e‑commerce domain modelling.  
-> - Emphasis on analytics and query‑performance.  
-> - Ready for full‑stack or data‑pipeline integration.  
+> **✨ Why this stands out:**  
+> - 🏷️ Realistic e‑commerce domain modelling  
+> - ⚡ Emphasis on analytics and query performance  
+> - 🔗 Ready for full‑stack or data‑pipeline integration  
+  
 
 
 ---
