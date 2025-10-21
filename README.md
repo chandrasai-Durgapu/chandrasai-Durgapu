@@ -1,10 +1,19 @@
 # Chandra Sai 
 
-💻 **Former ASP.NET Core Web Developer** → 🚀 **Now focused on Generative AI, Machine Learning & Data Science**
 
+---
+**AI Engineer | Data Scientist | Former ASP.NET Core Developer | Building with LLMs & AI Agents**
+---
+💻 **Former ASP.NET Core Web Developer** → 🚀 **Now focused on Generative AI, Machine Learning & Data Science**
+---
 I bring a strong background in **software engineering and database development**, and I am now applying those skills to build **AI-powered agents, ML projects, and data-driven applications**.
 
-📍 India  
+🔍 Transitioning from enterprise software development to cutting-edge AI solutions using LLMs, Crew AI, and Autogen. I specialize in designing intelligent agents, natural language interfaces, and scalable data-driven applications.
+---
+Location:
+📍 Vijayawada, India | Open to remote & hybrid roles 
+---
+📫 [LinkedIn](https://www.linkedin.com/in/chandra-d-3b821334a) | 📧 chandrasekharcse522@gmail.com  
 
 ---
 
@@ -72,7 +81,14 @@ I bring a strong background in **software engineering and database development**
 </table>
 
 ---
+### 🚀 Tech Stack
 
+- **Languages**: Python, C#, SQL  
+- **AI/ML**: LLMs (Groq, Gemini, OpenAI), Crew AI, Text-to-SQL, LangChain, LangGraph, AutoGen, RAG etc  
+- **Dev Tools**: Docker, Git, Streamlit  
+- **Databases**: SQL Server, PostgreSQL  
+
+---
 ## 🧑‍💻 About Me
 
 - Having experience as an **ASP.NET Core Web Developer** (enterprise web apps).  
